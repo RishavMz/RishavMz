@@ -1,4 +1,4 @@
-### Hi there 👋
+<marquee behavior="alternate">Rishav Mazumdar</marquee>
 
 <!--
 **RishavMz/RishavMz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
