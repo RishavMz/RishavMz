@@ -2,10 +2,10 @@
 <h3 align="center">Web Developer  ||  MERN  ||  PHP + MySQL  ||  Python Enthusiast  ||  IIITian </h3>
 <br/><br/>
 <ul>
- <li>🔭 I’m currently working on few React-based Projects</li>
- <li>🌱 I’m currently learning Dynamic Programming and Backend scripting</li>
+ <li>🔭 I’m currently working on a few personal projects</li>
+ <li>🌱 I’m currently learning Dynamic Programming and Backend development</li>
  <li> 👯 I’m looking to collaborate on Python automation OR Web based projects</li>
- <li>⚡ Fun fact: Im an ECE student😅</li>
+ <li>📫 How to reach me:</li>
 </p>
 <br/><br/>
 <div align="right"> 
