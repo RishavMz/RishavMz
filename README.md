@@ -1,10 +1,9 @@
 <h1 align="center">Rishav Mazumdar</h1><br/>
-<h3 align="center">Web Developer  ||  MERN  ||  PHP + MySQL  ||  Python Enthusiast  ||  IIITian </h3>
 <br/><br/>
 <ul>
- <li>🔭 I’m currently working on a few personal projects</li>
- <li>🌱 I’m currently learning Dynamic Programming and Backend development</li>
- <li> 👯 I’m looking to collaborate on Python automation OR Web based projects</li>
+ <li>🔭 I’m currently working on a few web based projects</li>
+ <li>🌱 I’m currently learning GraphQL , Docker , Dynamic Programming and Typescript </li>
+ <li> 👯 I’m looking to collaborate on node based web applications</li>
  <li>📫 How to reach me:</li>
 </p>
 <br/><br/>
