@@ -1,7 +1,7 @@
 <h1 align="center">Rishav Mazumdar</h1><br/>
-<br/><br/>
+
 <h4 align="center"> NodeJS || SQL || Javascript || PHP || Python || Docker</h4><br/>
-<br/><br/>
+
 <ul>
  <li>🔭 I’m currently working on a few web based projects</li>
  <li>🌱 I’m currently learning GraphQL , Docker , Dynamic Programming </li>
