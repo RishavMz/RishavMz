@@ -1,10 +1,10 @@
 <h1 align="center">Rishav Mazumdar</h1><br/>
 
-<h4 align="center"> NodeJS || SQL || Javascript || PHP || Python || Docker</h4><br/>
+<h4 align="center"> NodeJS || SQL || Javascript || Python </h4><br/>
 
 <ul>
  <li>🔭 I’m currently working on a few web based projects</li>
- <li>🌱 I’m currently learning GraphQL , Docker , Dynamic Programming </li>
+ <li>🌱 I’m currently learning GraphQL , Docker , Graph theory </li>
  <li> 👯 I’m looking to collaborate on node based web applications</li>
  <li>📫 How to reach me:</li>
 </p>
