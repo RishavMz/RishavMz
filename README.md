@@ -8,6 +8,7 @@
 <br/><br/>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=RishavMz&color=008080" alt="RishavMz" /></p>
+
 ![Rishav's github stats](https://github-readme-stats.vercel.app/api?username=RishavMz&show_icons=true)
 ![Languages used in projects](https://github-readme-stats.vercel.app/api/top-langs/?username=RishavMz&layout=compact)
 
