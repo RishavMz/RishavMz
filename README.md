@@ -3,7 +3,7 @@
 <h4 align="center"> Web Developer  ||  Software Developer </h4><br/>
 
 * 🔭 I’m currently working on <a href = "https://github.com/RishavMz/opencodecompete">opencodecompete</a>
-* 🌱 I’m currently learning PostgreSQL , OOP using Java and docker 
+* 🌱 I’m currently learning PostgreSQL , OOP concepts, Graph theory and docker 
 *  👯 I’m looking to collaborate on node based web applications
 <br/><br/>
 
