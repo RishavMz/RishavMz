@@ -2,18 +2,6 @@
 <h3 align="center">Software Developer  ||  Web Developer</h3>
 <br/><br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavmz&label=Profile%20views&color=0e75b6&style=flat" alt="rishavmz" /> </p>
-
-
-- 🔭 I’m currently working on [opencodecompete](https://github.com/RishavMz/opencodecompete), [ImageToPDF](https://github.com/RishavMz/ImageToPDF)
-
-- 🌱 I’m currently learning **DSA , OOP concepts and Dynamic programming**
-
-- 👨‍💻 All of my projects are available at [rishavmz.github.io](rishavmz.github.io)
-
-- 📫 How to reach me **rishav.mazumdar123@gmail.com**
-
-<br/><br/>
 
 ## Languages and Tools
 <center>
